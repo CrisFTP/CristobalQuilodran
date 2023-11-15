@@ -26,7 +26,7 @@
    foaf:homepage <https://www.linkedin.com/in/cristobal-quilodran-montoya/> ;
    foaf:img <https://docs.google.com/drawings/d/e/2PACX-1vRG3Pit9M3zV0HT5HFhrxIBRluvcMif6hHOGRwfMC8V3iVOX3GPyr4B4bDLodWsdpgIZhXoXN73oF6y/pub?w=260&h=346> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <https://fabianvillena.cl/foaf.ttl#fv> , <https://raw.githubusercontent.com/Cynthia-Vega/profile/main/perfil.ttl#cv> , <https://www.dim.uchile.cl/~furrutia/foaf.ttl#fu>;
-   foaf:interest dbr:Semantic_Web , dbr:Volleyball , dbr:League_of_Legends , dbr:Travel ; 
+   foaf:interest dbr:Semantic_Web , dbr:Volleyball , dbr:League_of_Legends , dbr:Travel , dbr:Philosophy ; 
    social:likesMovie dbr:Good_Will_Hunting , dbr:Perfect_Blue , dbr:Tokyo_Godfathers ;
    social:hasSpiritAnimal dbr:Crab ;
    social:hasFavouritePlatonicSolid dbr:Tetrahedron ;
