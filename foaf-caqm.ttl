@@ -16,7 +16,7 @@
    foaf:primaryTopic <#caqm> ;
    dc:creator <#caqm> .
 
-<#ah> a foaf:Person ;
+<#caqm> a foaf:Person ;
    rdfs:label "Cristobal Quilodran" ;
    rdfs:comment "DII student of FCFM"@en , "Estudiante del DII de la FCFM"@es ;
    foaf:name "Cristobal Quilodran" ;
